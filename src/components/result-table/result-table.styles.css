@@ -1,0 +1,58 @@
+.table {
+    background: #0D7590;
+    margin-top: 5rem;
+}
+
+.inset-cat {
+    color: #FFFFFF;
+}
+
+.top-boy {
+   background: #F2F2F2;
+}
+
+.lakes-film {
+    background: #FFFFFF;
+}
+
+.after {
+    position: absolute;
+    width: 438px;
+    height: 40px;
+    left: 15px;
+    margin-top: 3rem;
+    background: #0D7590;
+}
+
+.space {
+    background: #F2F2F2;
+    position: absolute;
+    width: 438px;
+    height: 40px;
+    left: 15px;
+    margin-top: 5rem;
+}
+
+.pass {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  color: #000000;
+  font-weight: 500;
+  margin-top: 8rem;
+  text-align: left;
+  margin-left: 1rem;
+  font-family: 'Lato';
+}
+
+.link {
+  color: #0D7590;
+  font-size: 1.2rem;
+}
+
+.end {
+   flex-direction: column;
+   border-top: 1px solid #000;
+   width: 50%;
+   color: #000;
+   margin-left: 5rem;
+}

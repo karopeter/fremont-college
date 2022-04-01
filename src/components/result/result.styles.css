@@ -1,0 +1,72 @@
+.promises {
+     background: #FFFFFF;
+     position: relative;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.side-logo {
+    margin-left: 45px;
+    font-size: 2rem;
+    font-family: 'Monteserrat';
+    color: #3D3636;
+}
+
+.header__education {
+    display: flex;
+    flex: 1;
+}
+
+.header__secondary {
+    font-size: 1rem;
+    color: #4F4F4F;
+    text-align: center;
+    margin-left: 30rem;
+    line-height: 16px;
+    font-family: 'Lato';
+    font-weight: 700;
+}
+
+.heading__tertiary {
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 2rem;
+    margin-top: 3rem;
+    color: #333333;
+}
+
+.header__passport {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10rem;
+}
+
+
+.long__copy {
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 700;
+    margin-top: 1.5rem;
+    color: #333333;
+    margin-bottom: 6rem;
+    font-size: 1.2rem;
+}
+
+.jhopq90,
+.side-name {
+  color: #000000;
+  font-size: 1.2rem;
+  font-family: 'Lato';
+  line-height: 16px;
+}
+
+.jhopq90 {
+    font-weight: 700;
+}

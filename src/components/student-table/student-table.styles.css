@@ -1,0 +1,14 @@
+.table {
+    background: #F9F9FA;
+}
+
+.ghost {
+  background: #46C35F;
+  color: #fff;
+  border-radius: 1px;
+  position: relative;
+}
+
+.first-line {
+    background: #FFFFFF;
+}

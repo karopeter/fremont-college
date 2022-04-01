@@ -1,0 +1,12 @@
+.top-head {
+    margin-top: 1.5rem;
+    color: #343434;
+    font-size: 2rem;
+    font-weight: 900;
+    font-family: 'Lato';
+    align-items: center;
+    left: 40rem;
+    position: absolute;
+    top: 30px;
+    display: flex;
+}
